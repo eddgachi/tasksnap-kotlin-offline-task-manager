@@ -253,8 +253,8 @@ app/src/main/kotlin/com/example/tasktodo/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/task-manager.git
-cd task-manager
+git clone https://github.com/eddgachi/tasksnap-kotlin-offline-task-manager
+cd tasksnap-kotlin-offline-task-manager
 
 # Build the app
 ./gradlew build
